@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a18b7c386ebd28249907a0b441ec96dc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - startSlicePoint: {instanceID: 0}
+  - endSlicePoint: {fileID: 4257412417454173056, guid: d5615d616019430d9c2e8727e71c97fb, type: 3}
+  - velocityEstimator: {instanceID: 0}
+  - crossSection: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
